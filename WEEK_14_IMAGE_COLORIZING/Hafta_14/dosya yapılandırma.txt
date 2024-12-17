@@ -1,0 +1,19 @@
+Jupyter notebook dosyaları genelde 
+c/Kullanıcılar/Sizin kullanıcı adınız/ dizininde 
+oluşturulur
+
+c/Kullanıcılar/Sizin kullanıcı adınız/ dizini 
+içerisinde şu isimde 3 klasör oluşturun
+
+dummy
+models
+Hafta_14
+
+indirdiğiniz .pth uzantılı dosyayı models klasörüne
+kopyalayın
+
+dummy ve models klasörlerini Hafta_14 klasörü
+içerisine kopyalayın
+
+jupyter notebook dosyanızı Hafta_14 klasörü
+içerisine girip öyle oluşturun

@@ -1,0 +1,18 @@
+Son haftanın konusu:
+Eski (Siyah-beyaz) Görüntüleri Renklendirme
+
+4 adet kütüphane kurulumu yapılacak:
+anaconda promptu açıp kendi env'inizi aktif edin
+
+mevcut env'leri öğrenmek için
+conda env list
+
+Kendi internetinize bağlanın!!!
+aktifleştirmek için
+conda activate env adınız
+
+
+pip install fastprogress
+pip install fastai==1.0.61
+pip install deoldify
+pip install torch torchvision
